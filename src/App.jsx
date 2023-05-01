@@ -1,8 +1,8 @@
 import { useState } from "react"
 
-import Profile from "./components/Profile/Index"
+import Profile from "./components/Profile"
 import Form from "./components/Form"
-import ReposList from "./components/ReposList/index"
+import ReposList from "./components/ReposList"
 
 function App() {
   const [visibleForm, setVisibleForm] = useState(true)
