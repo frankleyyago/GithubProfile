@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import styles from './profile.module.css'
+import styles from './Profile.module.css'
 
 const Profile = ({ userName }) => {
     return (
